@@ -2,11 +2,9 @@
 
 This is a repo for the Capstone project in the [Udacity C++ Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213). 
 
+The Capstone Project gives a chance to integrate the knowledge throughout this program. In this project, I implemented the simple game of Pong using SDL2. 
 <img src="images/PongScreen.png"/>
 
-The Capstone Project gives a chance to integrate the knowledge throughout this program. 
-
-In this project, I implemented the simple game of Pong using SDL2. 
 ## Project Structure:
 <img src="images/Pong4Two.png"/>
 
